@@ -1,0 +1,25 @@
+we are not frozen
+bundle dir is G:\PyCTP3-master\PyCTP_Client\PyCTP_ClientCore
+sys.argv[0] is G:/PyCTP3-master/PyCTP_Client/PyCTP_ClientCore/ClientMain.py
+sys.executable is E:\Python34\python34.exe
+os.getcwd is G:\PyCTP3-master\PyCTP_Client\PyCTP_ClientCore
+process_id = 10920 thread.getName()= MainThread , __main__
+>>> StocketManager.read_ip_address() ip_address = 192.168.180.130 8888
+SocketManager.connect() self.__ip_address 192.168.180.130
+QAccountWidget.slot_addTabBar() self.__dict_clicked_info = {'所有账户': {}}
+SocketManager.RecvN() [WinError 10057] 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。 2062 0
+>>> StrategyDataModel.slot_set_data_list() 更新tableView整个区域, len(data_list) = 0
+SocketManager.connect() socket error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+SocketManager.connect() self.__ip_address 192.168.180.130
+SocketManager.connect() socket error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+SocketManager.connect() self.__ip_address 192.168.180.130
+SocketManager.connect() socket error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+SocketManager.connect() self.__ip_address 192.168.180.130
+SocketManager.connect() socket error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+QLogin.on_pushButton_login_clicked() thread.getName()= MainThread
+SocketManager.run_send_msg() MsgType = 1 {'MsgRef': 1, 'MsgSendFlag': 0, 'MsgSrc': 0, 'Password': '111111', 'MsgType': 1, 'TraderID': 'ypf'}
+SocketManager.slot_send_msg() except socket.error as e: [WinError 10057] 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+SocketManager.connect() self.__ip_address 192.168.180.130
+SocketManager.connect() socket error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+SocketManager.connect() self.__ip_address 192.168.180.130
+>>> QLogin.closeEvent() 
